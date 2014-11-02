@@ -18,6 +18,7 @@ uk:
         many: '%{count} відгуків'
         other: '%{count} відгуків'
   spree:
+    approval_status: Підтвердження
     approve: Схвалити
     approved_reviews: Схвалено
     average_customer_rating: Середня оцінка

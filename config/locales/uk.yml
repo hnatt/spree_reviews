@@ -60,7 +60,7 @@ uk:
       many: '%{count}'
       other: '%{count}'
     stars: Зірочок
-    submit_your_review: Написати відгук
+    submit_your_review: Надіслати відгук
     submitted_on: Написано
     unapproved_reviews: Непідтверджений
     voice:
